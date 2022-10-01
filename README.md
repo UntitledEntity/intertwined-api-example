@@ -4,6 +4,8 @@
 
 Example on the intertwined API.
 
+Add your app id [here](https://github.com/UntitledEntity/intertwined-api-example/blob/main/login.py#L3) and you're good to go!
+
 ## License
 
 > Copyright (c) 2022 Jacob Gluska/UntitledEntity
