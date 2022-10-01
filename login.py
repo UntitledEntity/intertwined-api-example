@@ -1,6 +1,6 @@
 import requests
 
-data = { "type": "init", "appid" : "XIASKqtv" }
+data = { "type": "init", "appid" : "APPIDHERE" }
 
 init_ret = requests.post("https://intertwined.solutions/api/", data=data)
 json = init_ret.json()
